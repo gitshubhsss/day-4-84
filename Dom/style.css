@@ -1,0 +1,16 @@
+#changeimg{
+    width: 300px;
+    height: 300px;
+}
+.newColor{
+    color: yellow;
+}
+
+.green{
+    color: green;
+    text-decoration: underline black wavy;
+}
+.box{
+    background-color: yellow;
+    width: 200px;
+}
